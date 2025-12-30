@@ -6,14 +6,14 @@
 // Trimester: 2530
 // Member_1: 253UC255QH | Megat Harith Na'il bin Mohd Husaini | MEGAT.HARITH.NAIL@student.mmu.edu.my | +601111305728
 // Member_2: 252UC2422B | Muhammad Adam Hazriq Bin MOHD Amiruddin | MUHAMMAD.ADAM.HAZRIQ1@student.mmu.edu.my | +60126500498
-// Member_3: 252UC243LL | MOHAMAD ZAIRUL NAIM | MOHAMAD.ZAIRUL.NAIM1@student.mmu.edu.my | +60167481189
-// Member_4: 253UC256HA | AHMED OSAMA ELEASHID ALI | AHMED.OSAMA.ELRASHID@student.mmu.edu.my | +60175795884
+// Member_3: 253UC256HA | AHMED OSAMA ELEASHID ALI | AHMED.OSAMA.ELRASHID@student.mmu.edu.my | +60175795884
+// Member_4: 252UC243LL | MOHAMAD ZAIRUL NAIM | MOHAMAD.ZAIRUL.NAIM1@student.mmu.edu.my | +60167481189 
 // -----------------------------------------------------------------------------------------------------------------------
 // Task Distribution
-// Member_1: NIGGERSSSSSS
-// Member_2:
-// Member_3:
-// Member_4:
+// Member_1: Write the core functions (createSheet, insertRow, viewSheetCSV) and manage the Parallel Arrays.
+// Member_2: Implements the basic error handling (cin, clear,cin.ignore) and the main() menu system.
+// Member_3: Create the flowchart for the logic used by Members 1 and 2.
+// Member_4: Write the User Documentation and performs final testing with sample outputs. 
 // -----------------------------------------------------------------------------------------------------------------------
 
 #include <iostream>
@@ -147,14 +147,6 @@ int main(){
 
 
 }
-
-
-sakamalili imanini 
-nigergergergeregr
-
-
-
-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 
 
 
